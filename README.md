@@ -2,7 +2,7 @@
 
 Note: This project was made for educational purposes. I am not responsible for illegal uses.
 
-<img width="500" height="250" src="DiscordTokenTool/Images/image_1.png">
+<img width="750" height="375" src="DiscordTokenTool/Images/image_1.png">
 <img width="500" height="250" src="DiscordTokenTool/Images/image_2.png">
 <img width="500" height="250" src="DiscordTokenTool/Images/image_3.png">
 
