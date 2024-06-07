@@ -10,3 +10,4 @@ Note: This project was made for educational purposes. I am not responsible for i
 
 <img width="750" height="375" src="DiscordTokenTool/Images/image_4.png">
 <img width="750" height="375" src="DiscordTokenTool/Images/image_5.png">
+<img width="750" height="375" src="DiscordTokenTool/Images/image_6.png">
