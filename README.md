@@ -33,3 +33,5 @@ login(token);
 <img width="750" height="375" src="DiscordTokenTool/Images/image_6.png">
 
 That is all. You have logged in to your Discord account with your token!
+
+Note: If multi-factor authentication is enabled on your account, you cannot login using this method! This is why multi-factor authentication is important :)
